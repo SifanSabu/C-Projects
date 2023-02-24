@@ -4,7 +4,7 @@
 #include "dicegame.h"
 #include "dicegame.c"
 
-int main(int argc, char const *argv[]) {
+int main() {
     // Initialize the srand() to start the random generator
     srand(time(NULL));
 
